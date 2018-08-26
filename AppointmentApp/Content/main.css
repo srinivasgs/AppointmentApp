@@ -263,10 +263,16 @@ ul.contact {
 /* Header                                                                        */
 /*********************************************************************************/
 
-#header-wrapper {
+#home-header-wrapper {
     position: relative;
     padding: 5em 0em 7em 0em;
     background: #111111 url(http://markup.themewagon.com/healthcare_pro/assets/img/slider2.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#black-header-wrapper {
+    position: relative;
+    padding: 5em 0em 7em 0em;
     background-size: cover;
 }
 
@@ -460,3 +466,7 @@ ul.contact {
         text-align: center;
         color: rgba(0,0,0,.5);
     }
+
+#black-header-wrapper h3,h4 {
+    text-align: left;
+}

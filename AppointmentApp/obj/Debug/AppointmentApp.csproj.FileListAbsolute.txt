@@ -32,7 +32,6 @@
 /Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/AppointmentApp/bin/System.Web.WebPages.xml
 /Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/AppointmentApp/bin/System.Web.WebPages.Razor.xml
 /Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/AppointmentApp/bin/System.Web.Mvc.xml
-/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/AppointmentApp/obj/Debug/AppointmentApp.csprojAssemblyReference.cache
 /Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/AppointmentApp/obj/Debug/AppointmentApp.csproj.CoreCompileInputs.cache
 /Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/AppointmentApp/obj/Debug/AppointmentApp.csproj.CopyComplete
 /Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/AppointmentApp/obj/Debug/AppointmentApp.dll

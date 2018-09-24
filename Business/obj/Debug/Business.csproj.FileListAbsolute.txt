@@ -1,0 +1,11 @@
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/bin/Business.dll
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/bin/Business.pdb
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/bin/DataAccess.dll
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/bin/Models.dll
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/bin/DataAccess.pdb
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/bin/Models.pdb
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/obj/Debug/Business.csprojAssemblyReference.cache
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/obj/Debug/Business.csproj.CoreCompileInputs.cache
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/obj/Debug/Business.csproj.CopyComplete
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/obj/Debug/Business.dll
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Business/obj/Debug/Business.pdb

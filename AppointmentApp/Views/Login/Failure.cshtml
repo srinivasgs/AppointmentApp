@@ -1,0 +1,57 @@
+﻿@model AppointmentApp.Models.PatientInfo
+@{
+    Layout = null;
+}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <link href="http://fonts.googleapis.com/css?family=Didact+Gothic" rel="stylesheet" />
+    <link href="../../../Content/main.css" rel="stylesheet" type="text/css" />
+    <link href="../../../Content/fonts.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="black-header-wrapper">
+        <div id="header" class="container">
+            <div id="logo">
+                <h1><a href="/">Central Perk</a></h1>
+            </div>
+            <div id="menu">
+                <ul>
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li class="active">@Html.ActionLink("Login/SignUp", "Index", "Login")</li>
+                    <li>@Html.ActionLink("About Us", "Index", "AboutUs")</li>
+                    <li>@Html.ActionLink("Contact Us", "Index", "Services")</li>
+                </ul>
+            </div>
+        </div>
+        @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+        {
+            <div id="banner" class="container">
+                <h1 class="form-heading">login Form</h1>
+                <div class="login-form">
+                    <div class="main-div">
+                        <div class="panel">
+                            <p>Please enter your email and password</p>
+                        </div>
+
+                        <div class="form-group red_border">
+                            @Html.TextBoxFor(m => m.emailId)
+                        </div>
+                        <div class="form-group red_border">
+                            @Html.TextBoxFor(m => m.password)
+                        </div>
+                        <div class="forgot">
+                            @Html.ActionLink("Create Account?", "Index", "SignUp")
+                            <button type="submit" class="btn btn-primary">Login</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>

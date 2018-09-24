@@ -1,0 +1,6 @@
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Models/bin/Models.dll
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Models/bin/Models.pdb
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Models/obj/Debug/Models.csprojAssemblyReference.cache
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Models/obj/Debug/Models.csproj.CoreCompileInputs.cache
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Models/obj/Debug/Models.dll
+/Users/srgunasekar/Documents/Harrisburg/Web/AppointmentApp/Models/obj/Debug/Models.pdb
